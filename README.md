@@ -30,7 +30,7 @@ Knowledge :
  
    <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
 
-![](https://leetcard.jacoblin.cool/kishorekumar6?ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/kishorekumar6?theme=dark&font=Marcellus&ext=heatmap)
  
 ![](https://activity-graph.herokuapp.com/graph?username=kishorekumar6&theme=react-dark&area=true)
 <!--
