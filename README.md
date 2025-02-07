@@ -5,6 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Poonam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/poonam-chauhan-64a97159/)](https://www.linkedin.com/in/poonam-chauhan-64a97159/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Poonam-yellow)](https://stackoverflow.com/users/18828160/poonam-chauhan)
 [![Website Badge](https://img.shields.io/badge/WebSite-Poonam-green)](https://poonamchauhan229.github.io/Portfolio_Website/)
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
  
 I'm
 Full Stack Solution Architect
