@@ -29,6 +29,8 @@ Languages and Tools:
 Knowledge :
  
    <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+
+   ![LeetCode Stats](https://leetcard.jacoblin.cool/KishorePr?theme=dark&font=Marcellus&ext=heatmap)
  
 ![](https://activity-graph.herokuapp.com/graph?username=kishorekumar6&theme=react-dark&area=true)
 <!--
