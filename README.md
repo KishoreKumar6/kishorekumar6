@@ -36,7 +36,7 @@ Knowledge More on:
    <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/kishore?ext=heatmap)
-[![Leetcode Stats](https://leetcard.jacoblin.cool/kishoreprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/kishore?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kishorekumar6&bg_color=000000&color=9e4c98&line=9e4c98&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
