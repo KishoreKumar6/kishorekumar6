@@ -1,10 +1,9 @@
 # kishorekumar 
-### Hi Developers 👋
- 
- 
-I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs), design (working closely with designers), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX),database(MongoDB,Mysql)
+### Hi, I’m Kishore Kumar — a Full Stack Developer with a passion for crafting scalable and responsive web applications.
+
+I specialize in building seamless user experiences using modern front-end technologies like HTML5, CSS3, JavaScript, React.js, and also excel in back-end development with Node.js, Express.js, and MongoDB. From designing interactive interfaces to engineering robust APIs, I bring a modular, efficient mindset to every project I build.
+
+I’ve completed hands-on training with GUVI Learning Institute (Nov 2024 – May 2025), where I worked on projects like an e-commerce platform with secure user authentication, and have explored Next.js, JWT, and API testing with Postman. Whether it’s developing custom data structures or diving deep into DSA topics for technical interviews, I embrace progressively challenging tasks that enhance both functionality and performance.
  
  
 ![Visitor Count](https://profile-counter.glitch.me/kishorekumar6/count.svg)
