@@ -18,15 +18,6 @@ Applied state management techniques (React hooks, Context API) to maintain appli
 Conducted debugging and optimization using Chrome DevTools, React Developer Tools, and ESLint to improve efficiency.
 
 I’ve completed hands-on training with GUVI Learning Institute (Nov 2024 – May 2025), where I worked on projects like an e-commerce platform with secure user authentication, and have explored JWT, and API testing with Postman. Whether it’s developing custom data structures or diving deep into DSA topics for technical interviews, I embrace progressively challenging tasks that enhance both functionality and performance.
- 
- 
- 
-<div>
-  <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://justpaste.it/redirect/ai6sp/https%3A%2F%2Fgithub.com%2Fryo-ma%2Fgithub-profile-trophy">    
-    <img src="https://github-profile-trophy.vercel.app/?username=kishorekumar6&column=4"/>
-  </a>
-</div>
 
 
 
