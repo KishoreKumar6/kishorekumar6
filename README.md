@@ -4,7 +4,9 @@
 I specialize in building seamless user experiences using modern front-end technologies like HTML5, CSS3, JavaScript, React.js, and also excel in back-end development with Node.js, Express.js, and MongoDB. From designing interactive interfaces to engineering robust APIs, I bring a modular, efficient mindset to every project I build.
 
 🏢 Perisync Technology – Frontend Developer (Aug 2025 – Present)
+
 🔧 Key Responsibilities
+
 Developed reusable UI components using React.js, TailwindCSS, and Shadcn UI, ensuring scalability and consistency across applications.
 
 Integrated REST APIs into dashboards and user-facing modules, enabling smooth data flow and real-time updates.
