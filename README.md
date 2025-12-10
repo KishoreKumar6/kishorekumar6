@@ -20,7 +20,6 @@ Conducted debugging and optimization using Chrome DevTools, React Developer Tool
 I’ve completed hands-on training with GUVI Learning Institute (Nov 2024 – May 2025), where I worked on projects like an e-commerce platform with secure user authentication, and have explored JWT, and API testing with Postman. Whether it’s developing custom data structures or diving deep into DSA topics for technical interviews, I embrace progressively challenging tasks that enhance both functionality and performance.
  
  
-![Visitor Count](https://profile-counter.glitch.me/kishorekumar6/count.svg)
  
 <div>
   <h4>🏆 Github Profile Trophy</h4>
@@ -42,8 +41,6 @@ Languages and Tools:
 Knowledge More on:
  
    <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-
-![Kishore's GitHub stats](https://github-readme-stats.vercel.app/api?username=kishorekumar6&theme=dark&show_icons=true&&hide=issues,contribs)
 
 
 
